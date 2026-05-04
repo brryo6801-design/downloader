@@ -77,8 +77,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [downloader](https://github.com/subhidro/downloader/tree/main/downloads/downloader)
+1 - [Disc 1](https://github.com/subhidro/downloader/tree/main/downloads/Disc 1)
+2 - [downloader](https://github.com/subhidro/downloader/tree/main/downloads/downloader)
 
 ---
